@@ -49,6 +49,7 @@ Concepts practiced:
 
 Purpose: Build understanding of randomness and dynamic movement in programming.
 
+![Random Walk](images/random_walk.png)
 ---
 
 ## 3. Spirograph Pattern
@@ -64,6 +65,7 @@ Concepts practiced:
 
 Purpose: Demonstrate how small rotational changes inside a loop can create complex circular designs.
 
+![Spirograph](images/spirograph.png)
 ---
 
 ## 4. Spot Painting
@@ -78,3 +80,5 @@ Concepts practiced:
 - Grid positioning logic
 
 Purpose: Combine structured positioning with randomness to create a balanced visual design.
+
+![Spot Painting](images/spot_painting.png)
