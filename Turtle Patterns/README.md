@@ -33,7 +33,7 @@ Concepts practiced:
 
 Purpose: Understand how geometric shapes are formed mathematically and how repetition creates larger patterns.
 
-![Geometric Pattern](images/geometric_pattern_generator.png)
+![Geometric Pattern](images/geomatric_pattern_generator.png)
 
 
 ## 2. Random Walk
